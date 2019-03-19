@@ -1,0 +1,13 @@
+{
+  "name": "showPicture",
+  "version": "0.0.1",
+  "description": "Show picture",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.19",
+    "mysql": "^2.15.0",
+    "nimble": "0.0.2",
+    "zlib": "^1.0.5"
+  }
+}
